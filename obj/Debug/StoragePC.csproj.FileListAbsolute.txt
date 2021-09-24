@@ -46,3 +46,37 @@ C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC-main\
 C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC-main\obj\Debug\Regist.g.cs
 C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC-main\obj\Debug\DateBase.baml
 C:\Users\студент.STD5\Desktop\Учет периферии\StoragePC-main\obj\Debug\Regist.baml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\StoragePC.exe.config
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\StoragePC.exe
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\StoragePC.pdb
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\EntityFramework.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\MaterialDesignColors.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\System.Data.SQLite.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\EntityFramework.xml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\MaterialDesignColors.pdb
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\bin\Debug\System.Data.SQLite.xml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.csprojAssemblyReference.cache
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\DateBase.g.cs
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\MainWindow.g.cs
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\Regist.g.cs
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\App.g.cs
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC_MarkupCompile.cache
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC_MarkupCompile.lref
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\App.baml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\DateBase.baml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\MainWindow.baml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\Regist.baml
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.g.resources
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.Properties.Resources.resources
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.csproj.GenerateResource.cache
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.csproj.CopyComplete
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.exe
+C:\Users\студент.STD5\Documents\GitHub\StoragePC_V_0.1_Lite\obj\Debug\StoragePC.pdb
